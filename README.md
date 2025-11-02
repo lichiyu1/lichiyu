@@ -1,4 +1,4 @@
-## Hi there 👋
+## lichiyu的专属资料 👋
 
 <!--
 **lichiyu1/lichiyu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
